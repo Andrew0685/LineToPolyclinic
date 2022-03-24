@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineToPolyclinic", "LineToPolyclinic.csproj", "{6104F8FB-AF57-4A9C-85B2-6DB6772E8E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6104F8FB-AF57-4A9C-85B2-6DB6772E8E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6104F8FB-AF57-4A9C-85B2-6DB6772E8E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6104F8FB-AF57-4A9C-85B2-6DB6772E8E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6104F8FB-AF57-4A9C-85B2-6DB6772E8E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A2601CA-D2E7-4D3B-A057-D2F49C50644D}
+	EndGlobalSection
+EndGlobal
